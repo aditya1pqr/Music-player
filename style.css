@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background-color:black;
+    height: 50px;
+    width: full;
+    color: white;
+    display: flex;
+    align-items: center;
+
+         
+}
+.navbar >div{
+    margin-right: 8px;
+    font-size: large;
+    
+}
+img{
+    margin-top: 4px;
+    height: 40px;
+    width: 80px;
+
+    
+}
+.logosp{
+    color: green;
+    font-size: xx-large;
+    font-weight: bold;
+    
+}
+.logospg{
+    display: flex;
+    align-items: center;
+}
+.imgl{
+   width:60px;
+}
